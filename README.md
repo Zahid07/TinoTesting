@@ -1,4 +1,4 @@
-# TinoTesting
+# TrinoTesting
 Setup Trino on docker and setup multiple connectors with it.
 
 So Basically, what I did was I wanted to use trino an attach multiple connectors and transfer data between them and make life easier.
